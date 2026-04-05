@@ -1,9 +1,0 @@
-{
-  "configurations": {
-    "qehsportal": {
-      "appLocation": ".",
-      "apiLocation": "",
-      "outputLocation": "."
-    }
-  }
-}
