@@ -2,8 +2,9 @@
   "routes": [
     {
       "route": "/*",
-      "serve": "/index.html",
-      "statusCode": 200
+      "rewrite": "https://ids.na.sheassure.net/hilmarcheese/p/Portal",
+      "redirect": "https://app.na.sheassure.net/hilmarcheese/p/Portal",
+      "statusCode": 300
     }
   ],
   "navigationFallback": {
