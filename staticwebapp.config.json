@@ -1,0 +1,14 @@
+{
+  "routes": [
+    {
+      "route": "profile",
+      "methods": [
+        "head"
+      ],
+      "redirect": "https://polite-bush-09e93ef10.1.azurestaticapps.net",
+      "allowedRoles": [
+        "authenticated"
+      ]
+    }
+  ]
+}
